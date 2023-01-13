@@ -62,7 +62,7 @@ def calibrate_charuco(img_list, marker_length, square_length, nx, ny):
     return ret, mtx, dist, rvecs, tvecs
 
 
-MARKER_LENGTH = 2.4
+MARKER_LENGTH = 2.7
 SQUARE_LENGTH = 3.2
 NX = 5
 NY = 7
