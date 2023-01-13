@@ -10,3 +10,5 @@ the resulting image still does not look as good as the target image which was ac
 
 The second set of images are three images from our 3D-Scanner with the provisional calibration card on it. When using those images
 for calibration, the results are also very distorted around the top and bottom images. 
+
+Which set of images to use can be chosen via the `IMAGE_BATCH` parameter
